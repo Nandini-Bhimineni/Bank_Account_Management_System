@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/github/license/Nandini-Bhimineni/Bank_Account_Management_System?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bank%20Account%20Management%20System-Java%20Project-blue?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/Java-17-orange?style=flat-square" />
   <img src="https://img.shields.io/github/stars/Nandini-Bhimineni/Bank_Account_Management_System?style=flat-square" />
   <img src="https://img.shields.io/github/forks/Nandini-Bhimineni/Bank_Account_Management_System?style=flat-square" />
-  <img src="https://img.shields.io/github/license/Nandini-Bhimineni/Bank_Account_Management_System?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" />
 </p>
+
 
 ---
 # Bank Account Management System  
